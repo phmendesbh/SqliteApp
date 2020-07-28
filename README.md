@@ -11,4 +11,4 @@
 - Sqlite
 
 ## 🌎 Fonte de estudo
-- [developersoapbox](https://developersoapbox.com/connecting-to-a-sqlite-database-using-net-core/ "developersoapbox")
+- [Developer Soapbox](https://developersoapbox.com/connecting-to-a-sqlite-database-using-net-core/ "developersoapbox")
